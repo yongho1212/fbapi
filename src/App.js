@@ -11,7 +11,6 @@ const responseFacebook = (response) => {
 function App() {
   return (
     <div className="App">
-      
       <FacebookLogin
         appId="921201001964201"
         autoLoad={true}
